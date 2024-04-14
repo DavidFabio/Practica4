@@ -1,1 +1,3 @@
 # Practica4
+
+Debido a que son 2 palabras, van a haber dos dimensiones que van a crear una tabla. El primer y segundo bucle son para recorrer los elementos de la tabla. En el tercer y cuarto bucle lo que se hace es comprobar si la letra de la palabra1 es igual a la de la palabra2, en cuyo caso se utilizará el valor de la diagonal anterior. De lo contrario, se elegirá entre 3 opciones(añadir, borrar y reemplazar), elegiendo siempre el valor mínimo de entre ellas. Por último se muestra el valor de la esquina izquierda inferior de la tabla, que es el valor que nos interesa.
